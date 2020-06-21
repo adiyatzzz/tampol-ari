@@ -1,3 +1,7 @@
+body {
+    background-color: slateblue;
+}
+
 h1 {
     font-size: 30px;
     font-family: 'Press Start 2P', cursive;
@@ -25,4 +29,14 @@ h1 {
 .foto img {
     width: 300px;
     height: 300px;
+}
+
+.counter {
+    text-align: center;
+    margin: 10px auto;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.counter p {
+    margin: 7px 0;
 }
