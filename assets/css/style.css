@@ -1,3 +1,9 @@
+.foto {
+    border: 2px solid royalblue;
+    width: 300px;
+    height: 300px;
+}
+
 .foto img {
     width: 300px;
     height: 300px;
