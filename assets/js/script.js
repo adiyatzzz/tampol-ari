@@ -9,8 +9,8 @@ $(document).ready(function () {
             $(".foto").removeAttr("style");
             count++;
             $(".hit").html(count);
-        }, 200);
-        $("3tampol").css("opacity", "1");
+        }, 300);
+        $(".tampol").css("opacity", "1");
         $(".tampol").css("z-index", "3");
         
         
