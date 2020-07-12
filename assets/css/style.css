@@ -45,13 +45,13 @@ h1 {
     height: 200px;
     position: absolute;
     top: 70px;
-    left: 533px;
+    text-align: center;
     z-index: -1;
     opacity: 0;
 }
 
 .tampol-animation{
-    animation: tampol .23s forwards ease-in;
+    animation: tampol .2s forwards ease-in;
 }
 
 .counter {
@@ -93,7 +93,7 @@ h1 {
         width: 200px;
         opacity: 1; 
         top: 0;
-        left: 533px;
+        text-align: center;
         margin-top: 70px;
         z-index: 3;
     }
